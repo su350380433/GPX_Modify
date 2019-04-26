@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5073EFD32272C10A0073A467 /* 4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 5073EFD22272C10A0073A467 /* 4.gpx */; };
+		50913EAE2272ECA100F9EA36 /* single_1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 50913EAC2272ECA100F9EA36 /* single_1.gpx */; };
+		50913EAF2272ECA100F9EA36 /* single_2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 50913EAD2272ECA100F9EA36 /* single_2.gpx */; };
+		50A7FD612272B04A00BDB362 /* 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 50A7FD602272B04A00BDB362 /* 3.gpx */; };
 		50CC5E3D2272A95D008E0A2E /* 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 50CC5E3C2272A95D008E0A2E /* 2.gpx */; };
 		8277102A1EB0510F00F138D3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 827710291EB0510F00F138D3 /* main.m */; };
 		8277102D1EB0510F00F138D3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8277102C1EB0510F00F138D3 /* AppDelegate.m */; };
@@ -19,6 +23,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5073EFD22272C10A0073A467 /* 4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = 4.gpx; sourceTree = "<group>"; };
+		50913EAC2272ECA100F9EA36 /* single_1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = single_1.gpx; sourceTree = "<group>"; };
+		50913EAD2272ECA100F9EA36 /* single_2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = single_2.gpx; sourceTree = "<group>"; };
+		50A7FD602272B04A00BDB362 /* 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = 3.gpx; sourceTree = "<group>"; };
 		50CC5E3C2272A95D008E0A2E /* 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = 2.gpx; sourceTree = "<group>"; };
 		827710251EB0510F00F138D3 /* VirtualLocation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VirtualLocation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		827710291EB0510F00F138D3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -46,9 +54,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5073EFD42272C6B70073A467 /* single */ = {
+			isa = PBXGroup;
+			children = (
+				50913EAC2272ECA100F9EA36 /* single_1.gpx */,
+				50913EAD2272ECA100F9EA36 /* single_2.gpx */,
+			);
+			path = single;
+			sourceTree = "<group>";
+		};
 		8277101C1EB0510F00F138D3 = {
 			isa = PBXGroup;
 			children = (
+				5073EFD42272C6B70073A467 /* single */,
+				5073EFD22272C10A0073A467 /* 4.gpx */,
+				50A7FD602272B04A00BDB362 /* 3.gpx */,
 				50CC5E3C2272A95D008E0A2E /* 2.gpx */,
 				827710271EB0510F00F138D3 /* VirtualLocation */,
 				827710261EB0510F00F138D3 /* Products */,
@@ -151,8 +171,12 @@
 			files = (
 				827710381EB0510F00F138D3 /* LaunchScreen.storyboard in Resources */,
 				827710351EB0510F00F138D3 /* Assets.xcassets in Resources */,
+				5073EFD32272C10A0073A467 /* 4.gpx in Resources */,
+				50913EAE2272ECA100F9EA36 /* single_1.gpx in Resources */,
+				50A7FD612272B04A00BDB362 /* 3.gpx in Resources */,
 				50CC5E3D2272A95D008E0A2E /* 2.gpx in Resources */,
 				827710331EB0510F00F138D3 /* Main.storyboard in Resources */,
+				50913EAF2272ECA100F9EA36 /* single_2.gpx in Resources */,
 				827710431EB0518700F138D3 /* JZG.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

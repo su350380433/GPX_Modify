@@ -5,6 +5,15 @@
     xmlns="http://www.topografix.com/GPX/1/0"
     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
     
+    <name>厦门北到中山路步行街</name>
+    <desc>行者骑行软件</desc>
+    <author>行者骑行软件</author>
+    <url>http://www.imxingzhe.com</url>
+    <urlname>行者骑行软件</urlname>
+    <time>2014-10-24T16:32:13Z</time>
+    <keywords>行者骑行软件</keywords>
+    <distance>25.807</distance>
+    
     <wpt lat="24.465793" lon="118.088285">
         <time>2019-04-26T10:49:16Z</time>
     </wpt>
