@@ -20,6 +20,9 @@
 		827710381EB0510F00F138D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 827710361EB0510F00F138D3 /* LaunchScreen.storyboard */; };
 		827710411EB0517500F138D3 /* JZLocationConverter.m in Sources */ = {isa = PBXBuildFile; fileRef = 827710401EB0517500F138D3 /* JZLocationConverter.m */; };
 		827710431EB0518700F138D3 /* JZG.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 827710421EB0518700F138D3 /* JZG.gpx */; };
+		C2B8DBD2227D202200135A6C /* 7.gpx in Resources */ = {isa = PBXBuildFile; fileRef = C2B8DBD1227D202200135A6C /* 7.gpx */; };
+		C2E4B7B3227401DD009D9402 /* 5.gpx in Resources */ = {isa = PBXBuildFile; fileRef = C2E4B7B2227401DD009D9402 /* 5.gpx */; };
+		C2E4B7B52274673A009D9402 /* 6.gpx in Resources */ = {isa = PBXBuildFile; fileRef = C2E4B7B422746739009D9402 /* 6.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +44,9 @@
 		8277103F1EB0517500F138D3 /* JZLocationConverter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JZLocationConverter.h; sourceTree = "<group>"; };
 		827710401EB0517500F138D3 /* JZLocationConverter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JZLocationConverter.m; sourceTree = "<group>"; };
 		827710421EB0518700F138D3 /* JZG.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = JZG.gpx; sourceTree = "<group>"; };
+		C2B8DBD1227D202200135A6C /* 7.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = 7.gpx; sourceTree = "<group>"; };
+		C2E4B7B2227401DD009D9402 /* 5.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = 5.gpx; sourceTree = "<group>"; };
+		C2E4B7B422746739009D9402 /* 6.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = 6.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +76,9 @@
 				5073EFD22272C10A0073A467 /* 4.gpx */,
 				50A7FD602272B04A00BDB362 /* 3.gpx */,
 				50CC5E3C2272A95D008E0A2E /* 2.gpx */,
+				C2E4B7B2227401DD009D9402 /* 5.gpx */,
+				C2E4B7B422746739009D9402 /* 6.gpx */,
+				C2B8DBD1227D202200135A6C /* 7.gpx */,
 				827710271EB0510F00F138D3 /* VirtualLocation */,
 				827710261EB0510F00F138D3 /* Products */,
 			);
@@ -141,7 +150,7 @@
 				TargetAttributes = {
 					827710241EB0510F00F138D3 = {
 						CreatedOnToolsVersion = 8.3;
-						DevelopmentTeam = 9H8DB7NU55;
+						DevelopmentTeam = 2Z59J59T39;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -151,6 +160,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -169,12 +179,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2E4B7B52274673A009D9402 /* 6.gpx in Resources */,
 				827710381EB0510F00F138D3 /* LaunchScreen.storyboard in Resources */,
 				827710351EB0510F00F138D3 /* Assets.xcassets in Resources */,
 				5073EFD32272C10A0073A467 /* 4.gpx in Resources */,
 				50913EAE2272ECA100F9EA36 /* single_1.gpx in Resources */,
+				C2B8DBD2227D202200135A6C /* 7.gpx in Resources */,
 				50A7FD612272B04A00BDB362 /* 3.gpx in Resources */,
 				50CC5E3D2272A95D008E0A2E /* 2.gpx in Resources */,
+				C2E4B7B3227401DD009D9402 /* 5.gpx in Resources */,
 				827710331EB0510F00F138D3 /* Main.storyboard in Resources */,
 				50913EAF2272ECA100F9EA36 /* single_2.gpx in Resources */,
 				827710431EB0518700F138D3 /* JZG.gpx in Resources */,
@@ -311,10 +324,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9H8DB7NU55;
+				DEVELOPMENT_TEAM = 2Z59J59T39;
 				INFOPLIST_FILE = VirtualLocation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.compan4y.VirtualLocation11;
+				PRODUCT_BUNDLE_IDENTIFIER = com.compan4y.VirtualLocat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -323,10 +336,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9H8DB7NU55;
+				DEVELOPMENT_TEAM = 2Z59J59T39;
 				INFOPLIST_FILE = VirtualLocation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.compan4y.VirtualLocation11;
+				PRODUCT_BUNDLE_IDENTIFIER = com.compan4y.VirtualLocat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
