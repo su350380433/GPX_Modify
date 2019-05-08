@@ -141,7 +141,7 @@
 				TargetAttributes = {
 					827710241EB0510F00F138D3 = {
 						CreatedOnToolsVersion = 8.3;
-						DevelopmentTeam = 9H8DB7NU55;
+						DevelopmentTeam = UBDB759L97;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -311,7 +311,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9H8DB7NU55;
+				DEVELOPMENT_TEAM = UBDB759L97;
 				INFOPLIST_FILE = VirtualLocation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.compan4y.VirtualLocation11;
@@ -323,7 +323,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9H8DB7NU55;
+				DEVELOPMENT_TEAM = UBDB759L97;
 				INFOPLIST_FILE = VirtualLocation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.compan4y.VirtualLocation11;
