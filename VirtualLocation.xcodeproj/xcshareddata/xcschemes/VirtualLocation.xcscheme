@@ -64,7 +64,7 @@
       <AdditionalOptions>
       </AdditionalOptions>
       <LocationScenarioReference
-         identifier = "../../7.gpx"
+         identifier = "../../single/single_2.gpx"
          referenceType = "0">
       </LocationScenarioReference>
    </LaunchAction>
