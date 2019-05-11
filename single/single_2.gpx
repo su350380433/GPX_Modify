@@ -5,8 +5,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
  
-                    <wpt lat="24.5092341823" lon="118.1861714029">
+<!--                    <wpt lat="24.5092341823" lon="118.1861714029">-->
 
+                        <!-- 无人商店-->
+<!--                        <wpt lat="28.2698648000" lon="117.1395241500">-->
+                        <!-- 漳州无人商店-->
+<!--                            <wpt lat="23.8933605093" lon="117.3571149208">-->
+                                <wpt lat="23.9199855147" lon="116.4764496359">
+
+                                
 
         <name>hangzhou</name>
 

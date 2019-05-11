@@ -150,7 +150,7 @@
 				TargetAttributes = {
 					827710241EB0510F00F138D3 = {
 						CreatedOnToolsVersion = 8.3;
-						DevelopmentTeam = 2Z59J59T39;
+						DevelopmentTeam = UBDB759L97;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -324,10 +324,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 2Z59J59T39;
+				DEVELOPMENT_TEAM = UBDB759L97;
 				INFOPLIST_FILE = VirtualLocation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.compan4y.VirtualLocat;
+				PRODUCT_BUNDLE_IDENTIFIER = com.compan4y.VirtualLocat22;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -336,10 +336,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 2Z59J59T39;
+				DEVELOPMENT_TEAM = UBDB759L97;
 				INFOPLIST_FILE = VirtualLocation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.compan4y.VirtualLocat;
+				PRODUCT_BUNDLE_IDENTIFIER = com.compan4y.VirtualLocat22;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
