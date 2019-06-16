@@ -47,6 +47,8 @@
 		C2B8DBD1227D202200135A6C /* 7.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = 7.gpx; sourceTree = "<group>"; };
 		C2E4B7B2227401DD009D9402 /* 5.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = 5.gpx; sourceTree = "<group>"; };
 		C2E4B7B422746739009D9402 /* 6.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = 6.gpx; sourceTree = "<group>"; };
+		C2E4DF8822B5E74E00CA2706 /* 新版巢穴.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "新版巢穴.gpx"; sourceTree = "<group>"; };
+		C2E4DF8922B648D900CA2706 /* 拒宅日.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "拒宅日.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,8 @@
 			children = (
 				50913EAC2272ECA100F9EA36 /* single_1.gpx */,
 				50913EAD2272ECA100F9EA36 /* single_2.gpx */,
+				C2E4DF8822B5E74E00CA2706 /* 新版巢穴.gpx */,
+				C2E4DF8922B648D900CA2706 /* 拒宅日.gpx */,
 			);
 			path = single;
 			sourceTree = "<group>";

@@ -5,20 +5,8 @@
     xmlns="http://www.topografix.com/GPX/1/0"
     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
     
-    <name>软件园二期到演武大桥</name>
-    <desc>行者骑行软件</desc>
-    <author>行者骑行软件</author>
-    <url>http://www.imxingzhe.com</url>
-    <urlname>行者骑行软件</urlname>
-    <time>2017-03-11T11:58:50Z</time>
-    <keywords>行者骑行软件</keywords>
-    <distance>13945</distance>
 <!--  鼓浪屿5鼓  -->
-<!--    <wpt lat="24.44571748842504" lon="118.06199383082088">-->
-
-                        <wpt lat="24.4682624400" lon="118.0818402900">
-
-<!--    <wpt lat="24.3823606380" lon="118.0448153839">-->
+    <wpt lat="24.44571748842504" lon="118.06199383082088">
     </wpt>
 
 </gpx>
